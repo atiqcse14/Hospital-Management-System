@@ -1,0 +1,4 @@
+# Hospital-Management-System
+
+It is necessary for the hospitals to keep track of the day-to-day activities & records of its patients, doctors. All of these information must be managed in an efficient and cost wise fashion so that an institution’s resources may be effectively utilized. Our objective is to automate the management of the hospital making it more efficient & error free. Here we can get the information of any patient who is under which doctor, the date of admission of a patient and disease information, the information of all doctors, the information of all appointments of the patients etc.
+We use fragments to keep the information of different sites of the management system. This system consists multiple copies of data, fragmentation information which is beneficial to keep the track of all data.
